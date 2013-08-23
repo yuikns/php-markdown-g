@@ -1,7 +1,7 @@
 PHP Markdown G
 ==============
 
-A fork of the [PHP Markdown](http://michelf.com/projects/php-markdown/) parser with Github style.
+A fork of the [PHP Markdown](https://github.com/michelf/php-markdown) parser with Github style.
 
 Differences from PHP Markdown
 -----------------------------

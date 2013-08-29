@@ -7,7 +7,7 @@ Differences from PHP Markdown
 -----------------------------
 This version is based on [PHP Markdown Extra 1.2.7](http://michelf.ca/projects/php-markdown/classic/) by Michel Fortin, released on 11 Apr 2013.  
 
-* Support for Github style fenced code blocks. Wrap code blocks in ``` instead of ~~~.
+* Support for Github style fenced code blocks. Wrap code blocks in \`\`\` instead of ~~~.
 * Code for third party software removed and global settings moved into class.
 
 How do I use this?
